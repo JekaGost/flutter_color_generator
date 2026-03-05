@@ -25,6 +25,16 @@ Make sure you have Flutter (https:docs.flutter.dev/get-started/install) installe
 ### Installation
 
 1. **Clone the repository**
-'''bash
-git clone
-'''
+git clone <your-repository-url>
+cd flutter_color_generator
+
+2. **Install dependencies**
+flutter pub get
+
+3. **Generate Freezed data classes**
+dart run build_runner build
+
+4. **Run the application**
+flutter run
+
+###
