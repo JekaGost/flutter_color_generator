@@ -20,7 +20,7 @@ This app changes its background color when you tap anywhere on the screen (excep
 To run this project locally, follow these steps:
 
 ### Required conditions
-Make sure you have Flutter (https:docs.flutter.dev/get-started/install) installed on your computer.
+Make sure you have [Flutter](https:docs.flutter.dev/get-started/install) installed on your computer.
 
 ### Installation
 
@@ -43,5 +43,7 @@ dart run build_runner build --delete-conflicting-outputs
 ```bash
 flutter run
 ```
+## License
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
 ###
