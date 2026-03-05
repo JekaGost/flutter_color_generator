@@ -26,4 +26,5 @@ Make sure you have Flutter (https:docs.flutter.dev/get-started/install) installe
 
 1. **Clone the repository**
 '''bash
-git clone 
+git clone
+'''
