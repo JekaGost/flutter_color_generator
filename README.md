@@ -1,5 +1,9 @@
 # Solid Color Generator
 
+<p align="center">
+  <img src="assets/icon/app_icon.png" width="150" alt="Solid Color Generator Logo">
+</p>
+
 A minimalistic application written by Flutter as a test task to interview for a junior position at **Solid Software**.
 
 This app changes its background color when you tap anywhere on the screen (except the control areas of the phone interface).
