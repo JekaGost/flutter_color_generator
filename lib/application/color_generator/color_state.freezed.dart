@@ -205,8 +205,8 @@ return $default(_that.backgroundColor);case _:
 /// @nodoc
 
 
-class _Initial implements ColorState {
-  const _Initial({required this.backgroundColor});
+class _Initial extends ColorState {
+  const _Initial({required this.backgroundColor}): super._();
   
 
 @override final  Color backgroundColor;

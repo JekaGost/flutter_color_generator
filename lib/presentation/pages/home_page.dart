@@ -1,9 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import '../../application/color_generator/color_cubit.dart';
-import '../../application/color_generator/color_state.dart';
+import 'package:solid_color_gen/application/color_generator/color_cubit.dart';
+import 'package:solid_color_gen/application/color_generator/color_state.dart';
 
+/// The home page of the application that displays a color
+/// and changes it on tap.
 class HomePage extends StatelessWidget {
+  /// Creates a [HomePage] widget.
   const HomePage({super.key});
 
   @override
