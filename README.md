@@ -8,6 +8,8 @@ A minimalistic application written by Flutter as a test task to interview for a 
 
 This app changes its background color when you tap anywhere on the screen (except the control areas of the phone interface).
 
+![App Demo](assets/gif/demo.gif)
+
 ## Features
 
 * Each time you click on the screen, it randomly selects one of 16,777,216 possible RGB combinations.
